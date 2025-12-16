@@ -150,4 +150,4 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 🙏 Créditos
 
 - Ilustrações por [Storyset](https://storyset.com/people)
-- Desenvolvido com 💜 para o aprendizado coletivo
+- Desenvolvido por Ana Luiza Fernandes Novaes com 💜 para o aprendizado coletivo
